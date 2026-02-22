@@ -8,16 +8,14 @@ export default function About() {
           </h1>
           <div className='text-md text-gray-500 dark:text-gray-300 flex flex-col gap-6'>
             <p>
-              Welcome to InspireHub! This blog was created by Shery Dhar Dubey
-              as a personal project to share his thoughts and ideas with the
-              world. Shrey is a passionate developer who loves to write about
-              technology, coding, politics, cricket, Bollywood and many more.
+              Welcome to InspireHub! This blog was created by Aashi Yadav
+              as a personal project.
             </p>
 
             <p>
               On this blog, you'll find weekly articles and tutorials on topics
               such as web development, software engineering, and programming
-              languages. Shrey is always learning and exploring new
+              languages. Aashi is always learning and exploring new
               technologies, so be sure to check back often for new content!
             </p>
 
