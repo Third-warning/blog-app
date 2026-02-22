@@ -34,7 +34,7 @@ export default function FooterCom() {
 
                     <Footer.Title title='Follow Us' />
                     <Footer.LinkGroup col>
-                        <Footer.Link href='https://github.com/itshrey'
+                        <Footer.Link href='https://github.com/Third-warning'
                         target='_blank'
                         rel='noopener noreferrer'>
                             Github
@@ -69,7 +69,7 @@ export default function FooterCom() {
                 <Footer.Icon href='#' icon={BsFacebook} />
                 <Footer.Icon href='#' icon={BsInstagram} />
                 <Footer.Icon href='#' icon={BsTwitter} />
-                <Footer.Icon href='https://github.com/itshrey' icon={BsGithub} />
+                <Footer.Icon href='https://github.com/Third-warning' icon={BsGithub} />
                 <Footer.Icon href='#' icon={BsDribbble} />
             </div>
             </div>
